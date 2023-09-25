@@ -1,0 +1,10 @@
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\bin\Debug\Calculator_Davidsen.exe.config
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\bin\Debug\Calculator_Davidsen.exe
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\bin\Debug\Calculator_Davidsen.pdb
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\obj\Debug\Calculator_Davidsen.csproj.AssemblyReference.cache
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\obj\Debug\Calculator_Davidsen.Form1.resources
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\obj\Debug\Calculator_Davidsen.Properties.Resources.resources
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\obj\Debug\Calculator_Davidsen.csproj.GenerateResource.cache
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\obj\Debug\Calculator_Davidsen.csproj.CoreCompileInputs.cache
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\obj\Debug\Calculator_Davidsen.exe
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Davidsen\obj\Debug\Calculator_Davidsen.pdb
